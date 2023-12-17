@@ -1,2 +1,2 @@
 - 🔭 I’m currently studying at 42 Lyon
-- 🌱 I’m currently learning C
+
